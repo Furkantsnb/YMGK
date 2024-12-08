@@ -1,6 +1,6 @@
 # YMGK
 
-# Furkan Taşan - 200541024
+# Furkan Taşan - 210541010
 
 
 
@@ -8,6 +8,7 @@
 Veri Dedektifi
 
 ## Proje Açıklaması
+
 Bu proje, OverlyApp kullanılarak geliştirilmiş bir AR uygulamasıdır. Projenin websitesinde verilen görselleri OverlyApp üzerinden taratıldığında artırılmış gerçeklik görüntüleri sunar.
 AR projesini gerçekleştirmek için ilk önce OverlyApp mağazadan indirilmelidir.Kullanıcılar web sitesinden kayıt olup giriş yaptıktan sonra sayfada yer alan görselleri OverlyApp uygulaması üzerinden taratır ve artırılmış gerçeklik görüntüsünü elde edebilir.
 
