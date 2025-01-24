@@ -13,11 +13,16 @@ Bu proje, OverlyApp kullanılarak geliştirilmiş bir AR uygulamasıdır. Projen
 AR projesini gerçekleştirmek için ilk önce OverlyApp mağazadan indirilmelidir.Kullanıcılar web sitesinden kayıt olup giriş yaptıktan sonra sayfada yer alan görselleri OverlyApp uygulaması üzerinden taratır ve artırılmış gerçeklik görüntüsünü elde edebilir.
 
 ## 1)Unit APK 
-İlk olarak aşağıdaki linke tıklanarak karekod sayfasına gidilir. Android cihazdan ekrandaki QR kod okutularak indirme sayfasına gidilir ve APK indirilir. İndirme işlemi tamamlandıktan sonra uygulama üzerinden kamera ile sitedeki görsel taratılır ve sanal gerçeklik içeriği görüntülenir.
+1. Verilen bağlantıya tıklayarak [karekod sayfasına](https://furkantsnb.github.io/qr.html) gidin.  
+2. Android cihazınızın kamerası veya bir QR kod tarayıcı ile ekrandaki QR kodu taratın.  
+3. APK dosyasını cihazınıza indirerek kurulum işlemini tamamlayın.  
+4. Uygulamayı açarak kamera özelliğiyle projeye ait görselleri tarayın. Bu işlem sonrası artırılmış gerçeklik (AR) içeriğini görüntüleyebilirsiniz.  
 
-Projemin APK sürümü (VeriDedektifi.apk) : [İndir](https://furkantsnb.github.io/qr.html)
 ## 2) OverlyAPP
-AR projesini gerçekleştirmek için ilk önce OverlyApp mağazadan indirilmelidir. Sonra kullanıcı, projenin web sitesine girer ve kayıt olur. Sisteme giriş yaptıktan sonra sayfada yer alan 2 görseli mobil cihazdan OverlyApp uygulaması üzerinden taratır ve artırılmış gerçeklik projesine ulaşır.
+1. Mobil cihazınıza **OverlyApp** uygulamasını indirin ve yükleyin.  
+2. [OverlyApp web sitesine](https://furkantsnb.github.io/) giriş yaparak bir kullanıcı hesabı oluşturun.  
+3. Sisteme giriş yaptıktan sonra, sayfada bulunan iki görseli OverlyApp uygulaması üzerinden taratın.  
+4. Tarama işlemi sonrasında artırılmış gerçeklik projesine erişebilirsiniz. 
 
 ## WebSite Linki
 Proje websitesi: [WebSite](https://furkantsnb.github.io/)
