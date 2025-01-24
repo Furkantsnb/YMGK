@@ -15,7 +15,7 @@ AR projesini gerçekleştirmek için ilk önce OverlyApp mağazadan indirilmelid
 ## 1)Unit APK 
 İlk olarak aşağıdaki linke tıklanarak karekod sayfasına gidilir. Android cihazdan ekrandaki QR kod okutularak indirme sayfasına gidilir ve APK indirilir. İndirme işlemi tamamlandıktan sonra uygulama üzerinden kamera ile sitedeki görsel taratılır ve sanal gerçeklik içeriği görüntülenir.
 
-Projemin APK sürümü (VeriDedektifi.apk) : İndir
+Projemin APK sürümü (VeriDedektifi.apk) : [İndir](https://furkantsnb.github.io/qr.html)
 ## 2) OverlyAPP
 AR projesini gerçekleştirmek için ilk önce OverlyApp mağazadan indirilmelidir. Sonra kullanıcı, projenin web sitesine girer ve kayıt olur. Sisteme giriş yaptıktan sonra sayfada yer alan 2 görseli mobil cihazdan OverlyApp uygulaması üzerinden taratır ve artırılmış gerçeklik projesine ulaşır.
 
